@@ -11,7 +11,7 @@ This project is brought to you by [Appents](https://appents.com). Get in touch f
 
 ## Instructions
 
-1. Navigate to a single Instragram / X post.
+1. Navigate to a single Instagram / X post.
 2. Click the Download button in this Chrome Extension.
 3. Files and extracted data are downloaded to Downloads.
 
